@@ -7,7 +7,7 @@ About
 This repository is a skeleton project that shows how to integrate Trustap into a
 buy-and-sell website.
 
-See the (live demo)[https://stagedemo.trustap.com] for a sample application that
+See the [live demo](https://stagedemo.trustap.com) for a sample application that
 uses this integration.
 
 Flow
